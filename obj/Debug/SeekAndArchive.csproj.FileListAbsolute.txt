@@ -1,0 +1,6 @@
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe.config
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.pdb
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.csprojResolveAssemblyReference.cache
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.exe
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.pdb
